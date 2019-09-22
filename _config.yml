@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: github_username/github_username.github.io
 github_url: https://github.com/github_username
-url: http://github_username.github.io
+url: https://github_username.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
